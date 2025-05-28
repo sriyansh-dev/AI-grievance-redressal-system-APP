@@ -1,3 +1,5 @@
+UNDER DEVELOPMENT
+
 AI-Powered Citizen Grievance Redressal System (CGRS)
 Overview
 The AI-Powered Citizen Grievance Redressal System (CGRS) is an innovative solution developed for the IBM Hackathon Prarambh 2025, aimed at transforming public service delivery in the context of the 'AI City in Lucknow' initiative. This system leverages artificial intelligence to address inefficiencies in traditional grievance redressal mechanisms by automating complaint classification, prioritization, and routing. It enhances speed, accuracy, scalability, and transparency, contributing to improved citizen services across urban, rural, and disaster-prone areas.
